@@ -1,0 +1,22 @@
+{
+  "pictures": [
+    {
+      "artist": "Paulin Frustroff",
+      "year": "2021",
+      "photo": "https://picsum.photos/400/352",
+      "id": 1
+    },
+    {
+      "artist": "Jidheu",
+      "year": "2009",
+      "photo": "https://picsum.photos/400/364",
+      "id": 8
+    },
+    {
+      "artist": "Jack",
+      "year": "1999",
+      "photo": "https://picsum.photos/400/490",
+      "id": 9
+    }
+  ]
+}
